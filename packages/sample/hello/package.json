@@ -6,7 +6,9 @@
   "scripts": {
     "test": "jest --coverage --runInBand --forceExit --verbose false"
   },
-  "dependencies": {},
+  "dependencies": {
+    "mongoose": "^8.4.1"
+  },
   "devDependencies": {
     "jest": "^27.5.1"
   }
