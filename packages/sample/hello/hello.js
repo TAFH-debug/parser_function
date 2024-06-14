@@ -41,6 +41,7 @@ function main(args) {
                 price
             }).save();
         }
+        console.log("Lol")
     }
     getData();
 }
